@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cjohnson27
 - 👀 I’m interested in learning!
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on project management in GitHub
+- 🌱 I’m currently learning Git, Python, and Java
+- 💞️ I’m looking to collaborate on project management and development in GitHub
 - 📫 How to reach me ...
 
 <!---
